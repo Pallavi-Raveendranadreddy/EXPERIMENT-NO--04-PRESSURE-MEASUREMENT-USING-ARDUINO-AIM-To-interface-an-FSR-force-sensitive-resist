@@ -76,10 +76,11 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM 
+```
  roll no :212221240059
  name :VALASAREDDY PALLAVI
  department and year :AIML 2ND YEAR
- ```
+ 
  int Sensorvalue=A0;
 int newton;
 void setup()
