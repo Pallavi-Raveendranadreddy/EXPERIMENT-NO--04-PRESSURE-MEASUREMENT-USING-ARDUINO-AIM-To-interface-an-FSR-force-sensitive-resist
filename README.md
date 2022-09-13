@@ -100,7 +100,8 @@ void loop()
                
 }
  ```
-
+### aFTER SIMULATION
+![OUTPUT]()
 
 ### TABLE -02 standard deviation table 
 ![IMAGE](https://github.com/Pallavi-Raveendranadreddy/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/blob/e97259b05e7d0c0ab6b94efa56eb77519af756a4/excel.PNG)
